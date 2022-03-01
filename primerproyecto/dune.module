@@ -1,0 +1,12 @@
+################################
+# Dune module information file #
+################################
+
+# Name of the module
+Module: primerproyecto
+Version: 1.0
+Maintainer: ghierghe
+# Required build dependencies
+Depends: dune-common
+# Optional build dependencies
+#Suggests:
